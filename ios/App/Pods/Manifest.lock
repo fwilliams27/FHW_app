@@ -1,0 +1,57 @@
+PODS:
+  - Capacitor (4.4.0):
+    - CapacitorCordova
+  - CapacitorCamera (4.1.3):
+    - Capacitor
+  - CapacitorCordova (4.4.0)
+  - CapacitorFilesystem (4.1.3):
+    - Capacitor
+  - CapacitorPreferences (4.0.1):
+    - Capacitor
+  - CapacitorSplashScreen (4.1.1):
+    - Capacitor
+  - CordovaPlugins (4.4.0):
+    - CapacitorCordova
+  - CordovaPluginsResources (0.0.105)
+
+DEPENDENCIES:
+  - "Capacitor (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorCamera (from `../../node_modules/@capacitor/camera`)"
+  - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorFilesystem (from `../../node_modules/@capacitor/filesystem`)"
+  - "CapacitorPreferences (from `../../node_modules/@capacitor/preferences`)"
+  - "CapacitorSplashScreen (from `../../node_modules/@capacitor/splash-screen`)"
+  - CordovaPlugins (from `../capacitor-cordova-ios-plugins`)
+  - CordovaPluginsResources (from `../capacitor-cordova-ios-plugins`)
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorCamera:
+    :path: "../../node_modules/@capacitor/camera"
+  CapacitorCordova:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorFilesystem:
+    :path: "../../node_modules/@capacitor/filesystem"
+  CapacitorPreferences:
+    :path: "../../node_modules/@capacitor/preferences"
+  CapacitorSplashScreen:
+    :path: "../../node_modules/@capacitor/splash-screen"
+  CordovaPlugins:
+    :path: "../capacitor-cordova-ios-plugins"
+  CordovaPluginsResources:
+    :path: "../capacitor-cordova-ios-plugins"
+
+SPEC CHECKSUMS:
+  Capacitor: 868367fcfeb3ba6bfabaefc63c072e6478bd046d
+  CapacitorCamera: 69ca2f87102e93757829cf350a85287035c153d3
+  CapacitorCordova: 0c0b4edc7ce94fd560eadc3a6d36d5ee6453ada6
+  CapacitorFilesystem: e0136871c89a0b69654de0729d35c0b4fd1b12d8
+  CapacitorPreferences: d365ea3b5023b2aac39e8f5ce18de141e39d2cae
+  CapacitorSplashScreen: e1f56f45abbccd0dd4bb723195b52ed39f923680
+  CordovaPlugins: 3f639313533cf3e768d780395f33516414bda361
+  CordovaPluginsResources: 0c211f770ed91763a179ebcd9b9346e120b70662
+
+PODFILE CHECKSUM: 900382bd30dba557975c1567266ca8191521d4bb
+
+COCOAPODS: 1.16.2
