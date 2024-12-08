@@ -1,0 +1,3 @@
+[submodule "foundation-sure"]
+	path = foundation-sure
+	url = https://github.com/fwilliams27/foundation-sure.git
